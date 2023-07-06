@@ -1,2 +1,2 @@
 # Pizza-Resturant-Menu
-I Created A Pizza Menu While By Using React
+I Created A Pizza Menu By Using React
